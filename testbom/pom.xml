@@ -45,7 +45,7 @@
         <version.io.netty>4.1.63.Final</version.io.netty>
         <version.org.apache.velocity>2.3</version.org.apache.velocity>
         <version.org.mock-server.mockserver-netty>5.8.1</version.org.mock-server.mockserver-netty>
-        <version.xalan>2.7.1.jbossorg-5</version.xalan>
+        <version.xalan>2.7.3</version.xalan>
         <version.xom.xom>1.3.7</version.xom.xom>
     </properties>
 
