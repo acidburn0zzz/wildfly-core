@@ -40,7 +40,7 @@
     <name>WildFly: Core BOM of Test Dependencies</name>
 
     <properties>
-        <version.com.fasterxml.jackson>2.11.3</version.com.fasterxml.jackson>
+        <version.com.fasterxml.jackson>2.12.7.1</version.com.fasterxml.jackson>
         <version.commons-io>2.10.0</version.commons-io>
         <version.io.netty>4.1.63.Final</version.io.netty>
         <version.org.apache.velocity>2.3</version.org.apache.velocity>
